@@ -67,7 +67,7 @@ bottom: 1050px;        /* move para baixo */
 .Botão{
     cursor: pointer;
     display: absolute;
-    top: 9%;
+    top: 11%;
     left: 89%;
     background-color: rgb(8, 30, 155);
     position: absolute;
