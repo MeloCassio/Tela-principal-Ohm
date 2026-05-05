@@ -4,11 +4,17 @@ body{
 }
 
 .Cabeçalho{
-     padding: 50px 0px 50px 0px;
-    background-color: lightblue;
+     padding: 20px;
+    background-color:lightblue;
     text-align: center;
     font-size: 30px;
     position: relative;
+
+    /* padding: 20px; 
+    background-color: lightblue; 
+    text-align: center;
+     font-size: 30px; 
+     position: relative; */
 }
 
 .Textoprincipal{
@@ -19,11 +25,11 @@ body{
 
 
 .Imagem{
-width: 130px;
-height: 130px;
+width: 250px;
+height: 250px;
 position: relative; /* ou absolute */
-left: 1100px;         /* move para a direita */
-bottom: 1070px;         /* move para baixo */
+left: 638px;         /* move para a direita */
+bottom: 30px;         /* move para baixo */
 
 
 /*width: 120px;
@@ -37,8 +43,8 @@ bottom: 1050px;        /* move para baixo */
 .Textoimg{
     text-align: justify;
     display: absolute;
-    top: 41%;
-    left: 71.5%;
+    top: 224%;
+    left: 45%;
     position: absolute;
 
 
