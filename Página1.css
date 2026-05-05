@@ -43,7 +43,7 @@ bottom: 1050px;        /* move para baixo */
 .Textoimg{
     text-align: justify;
     display: absolute;
-    top: 224%;
+    top: 221%; /* Quanto maior, mais para baixo vai */
     left: 45%;
     position: absolute;
 
